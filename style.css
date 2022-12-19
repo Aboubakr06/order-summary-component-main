@@ -212,7 +212,6 @@ body{
 @media (min-width: 375px) {
     body {
         background-image: url("images/pattern-background-desktop.svg");
-        background-position: 0% -35%;
     }
 
 }
