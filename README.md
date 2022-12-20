@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Aboubakr06/order-summary-component-main)
+- Solution URL: (https://www.frontendmentor.io/solutions/order-summary-component-eFORsIGqCp)
 - Live Site URL: (https://flourishing-mermaid-02f824.netlify.app/)
 
 ## My process
